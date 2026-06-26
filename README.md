@@ -34,3 +34,6 @@ A simple number guessing game built with JavaScript. The player tries to guess a
 ## 📄 License
 
 This project is open source and available for educational and learning purposes.
+## 🔗 Live Demo
+
+https://fatemeh-abed.github.io/guess-number-game/
